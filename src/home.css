@@ -1,0 +1,47 @@
+/* Home.css */
+
+.home-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 100vh;
+  padding: 2rem;
+
+  background: linear-gradient(to bottom right, #ffe0b2, #ffcc80);
+  text-align: center;
+
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.home-title {
+  font-size: 10rem;        /* 大きめに */
+  font-weight: bold;
+  color: #e65100;
+  margin-bottom: 1.5rem;
+}
+
+.home-description {
+  font-size: 5rem;       /* 説明文もやや大きく */
+  color: #444;
+  margin-bottom: 2rem;
+}
+
+.home-button {
+  background-color: #ff9800;
+  color: white;
+  font-size: 3rem;        /* ボタンも大きく */
+  padding: 1rem 2rem;        /* 高さ＆横幅を増す */
+  border: none;
+  border-radius: 999px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.home-button:hover {
+  background-color: #fb8c00;
+}
