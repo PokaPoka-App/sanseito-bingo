@@ -94,7 +94,7 @@ console.log(import.meta.env.BASE_URL)
           >
             <div className="slot-image-wrapper">
               <img
-  src={`images/${item.image}`}
+  src={item.image}
   alt={item.name}
   className="slot-image"
 />
