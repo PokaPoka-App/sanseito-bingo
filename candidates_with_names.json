@@ -2,337 +2,337 @@
   {
     "id": "s001",
     "name": "田中よしひと",
-    "image": "images/1.png",
-    "imageWon": "images/1_won.png"
+    "image": "/images/1.png",
+    "imageWon": "/images/1_won.png"
   },
   {
     "id": "s002",
     "name": "加藤つとむ",
-    "image": "images/2.png",
-    "imageWon": "images/2_won.png"
+    "image": "/images/2.png",
+    "imageWon": "/images/2_won.png"
   },
   {
     "id": "s003",
     "name": "及川たいすけ",
-    "image": "images/3.png",
-    "imageWon": "images/3_won.png"
+    "image": "/images/3.png",
+    "imageWon": "/images/3_won.png"
   },
   {
     "id": "s004",
     "name": "ローレンス綾子",
-    "image": "images/4.png",
-    "imageWon": "images/4_won.png"
+    "image": "/images/4.png",
+    "imageWon": "/images/4_won.png"
   },
   {
     "id": "s005",
     "name": "さとうみわこ",
-    "image": "images/5.png",
-    "imageWon": "images/5_won.png"
+    "image": "/images/5.png",
+    "imageWon": "/images/5_won.png"
   },
   {
     "id": "s006",
     "name": "佐藤ともあき",
-    "image": "images/6.png",
-    "imageWon": "images/6_won.png"
+    "image": "/images/6.png",
+    "imageWon": "/images/6_won.png"
   },
   {
     "id": "s007",
     "name": "大山りさこ",
-    "image": "images/7.png",
-    "imageWon": "images/7_won.png"
+    "image": "/images/7.png",
+    "imageWon": "/images/7_won.png"
   },
   {
     "id": "s008",
     "name": "さくらいしょうこ",
-    "image": "images/8.png",
-    "imageWon": "images/8_won.png"
+    "image": "/images/8.png",
+    "imageWon": "/images/8_won.png"
   },
   {
     "id": "s009",
     "name": "大森紀明",
-    "image": "images/9.png",
-    "imageWon": "images/9_won.png"
+    "image": "/images/9.png",
+    "imageWon": "/images/9_won.png"
   },
   {
     "id": "s010",
     "name": "青木ひとみ",
-    "image": "images/10.png",
-    "imageWon": "images/10_won.png"
+    "image": "/images/10.png",
+    "imageWon": "/images/10_won.png"
   },
   {
     "id": "s011",
     "name": "大津力",
-    "image": "images/11.png",
-    "imageWon": "images/11_won.png"
+    "image": "/images/11.png",
+    "imageWon": "/images/11_won.png"
   },
   {
     "id": "s012",
     "name": "なかやめぐ",
-    "image": "images/12.png",
-    "imageWon": "images/12_won.png"
+    "image": "/images/12.png",
+    "imageWon": "/images/12_won.png"
   },
   {
     "id": "s013",
     "name": "さや",
-    "image": "images/13.png",
-    "imageWon": "images/13_won.png"
+    "image": "/images/13.png",
+    "imageWon": "/images/13_won.png"
   },
   {
     "id": "s014",
     "name": "はじかのひろき",
-    "image": "images/14.png",
-    "imageWon": "images/14_won.png"
+    "image": "/images/14.png",
+    "imageWon": "/images/14_won.png"
   },
   {
     "id": "s015",
     "name": "平井えりこ",
-    "image": "images/15.png",
-    "imageWon": "images/15_won.png"
+    "image": "/images/15.png",
+    "imageWon": "/images/15_won.png"
   },
   {
     "id": "s016",
     "name": "田保ともよ",
-    "image": "images/16.png",
-    "imageWon": "images/16_won.png"
+    "image": "/images/16.png",
+    "imageWon": "/images/16_won.png"
   },
   {
     "id": "s017",
     "name": "牧野みどり",
-    "image": "images/17.png",
-    "imageWon": "images/17_won.png"
+    "image": "/images/17.png",
+    "imageWon": "/images/17_won.png"
   },
   {
     "id": "s018",
     "name": "千田たかひろ",
-    "image": "images/18.png",
-    "imageWon": "images/18_won.png"
+    "image": "/images/18.png",
+    "imageWon": "/images/18_won.png"
   },
   {
     "id": "s019",
     "name": "ながたみき",
-    "image": "images/19.png",
-    "imageWon": "images/19_won.png"
+    "image": "/images/19.png",
+    "imageWon": "/images/19_won.png"
   },
   {
     "id": "s020",
     "name": "竹下ひろよし",
-    "image": "images/20.png",
-    "imageWon": "images/20_won.png"
+    "image": "/images/20.png",
+    "imageWon": "/images/20_won.png"
   },
   {
     "id": "s021",
     "name": "せおえいじ",
-    "image": "images/21.png",
-    "imageWon": "images/21_won.png"
+    "image": "/images/21.png",
+    "imageWon": "/images/21_won.png"
   },
   {
     "id": "s022",
     "name": "松下ゆうき",
-    "image": "images/22.png",
-    "imageWon": "images/22_won.png"
+    "image": "/images/22.png",
+    "imageWon": "/images/22_won.png"
   },
   {
     "id": "s023",
     "name": "杉本じゅんこ",
-    "image": "images/23.png",
-    "imageWon": "images/23_won.png"
+    "image": "/images/23.png",
+    "imageWon": "/images/23_won.png"
   },
   {
     "id": "s024",
     "name": "なんば聖子",
-    "image": "images/24.png",
-    "imageWon": "images/24_won.png"
+    "image": "/images/24.png",
+    "imageWon": "/images/24_won.png"
   },
   {
     "id": "s025",
     "name": "中田あい",
-    "image": "images/25.png",
-    "imageWon": "images/25_won.png"
+    "image": "/images/25.png",
+    "imageWon": "/images/25_won.png"
   },
   {
     "id": "s026",
     "name": "谷口あおひと",
-    "image": "images/26.png",
-    "imageWon": "images/26_won.png"
+    "image": "/images/26.png",
+    "imageWon": "/images/26_won.png"
   },
   {
     "id": "s027",
     "name": "宮出ちさと",
-    "image": "images/27.png",
-    "imageWon": "images/27_won.png"
+    "image": "/images/27.png",
+    "imageWon": "/images/27_won.png"
   },
   {
     "id": "s028",
     "name": "ふじわらせいや",
-    "image": "images/28.png",
-    "imageWon": "images/28_won.png"
+    "image": "/images/28.png",
+    "imageWon": "/images/28_won.png"
   },
   {
     "id": "s029",
     "name": "黒川ようじ",
-    "image": "images/29.png",
-    "imageWon": "images/29_won.png"
+    "image": "/images/29.png",
+    "imageWon": "/images/29_won.png"
   },
   {
     "id": "s030",
     "name": "林元政子",
-    "image": "images/30.png",
-    "imageWon": "images/30_won.png"
+    "image": "/images/30.png",
+    "imageWon": "/images/30_won.png"
   },
   {
     "id": "s031",
     "name": "倉井克幸",
-    "image": "images/31.png",
-    "imageWon": "images/31_won.png"
+    "image": "/images/31.png",
+    "imageWon": "/images/31_won.png"
   },
   {
     "id": "s032",
     "name": "ひろもりしほ",
-    "image": "images/32.png",
-    "imageWon": "images/32_won.png"
+    "image": "/images/32.png",
+    "imageWon": "/images/32_won.png"
   },
   {
     "id": "s033",
     "name": "こいし美千代",
-    "image": "images/33.png",
-    "imageWon": "images/33_won.png"
+    "image": "/images/33.png",
+    "imageWon": "/images/33_won.png"
   },
   {
     "id": "s034",
     "name": "やまさき珠江",
-    "image": "images/34.png",
-    "imageWon": "images/34_won.png"
+    "image": "/images/34.png",
+    "imageWon": "/images/34_won.png"
   },
   {
     "id": "s035",
     "name": "金城みきひろ",
-    "image": "images/35.png",
-    "imageWon": "images/35_won.png"
+    "image": "/images/35.png",
+    "imageWon": "/images/35_won.png"
   },
   {
     "id": "s036",
     "name": "小林なおみ",
-    "image": "images/36.png",
-    "imageWon": "images/36_won.png"
+    "image": "/images/36.png",
+    "imageWon": "/images/36_won.png"
   },
   {
     "id": "s037",
     "name": "原田しんたろう",
-    "image": "images/37.png",
-    "imageWon": "images/37_won.png"
+    "image": "/images/37.png",
+    "imageWon": "/images/37_won.png"
   },
   {
     "id": "s038",
     "name": "中田ゆうこ",
-    "image": "images/38.png",
-    "imageWon": "images/38_won.png"
+    "image": "/images/38.png",
+    "imageWon": "/images/38_won.png"
   },
   {
     "id": "s039",
     "name": "しもひごし優也",
-    "image": "images/39.png",
-    "imageWon": "images/39_won.png"
+    "image": "/images/39.png",
+    "imageWon": "/images/39_won.png"
   },
   {
     "id": "s040",
     "name": "黒石隆太",
-    "image": "images/40.png",
-    "imageWon": "images/40_won.png"
+    "image": "/images/40.png",
+    "imageWon": "/images/40_won.png"
   },
   {
     "id": "s041",
     "name": "山口誠太郎",
-    "image": "images/41.png",
-    "imageWon": "images/41_won.png"
+    "image": "/images/41.png",
+    "imageWon": "/images/41_won.png"
   },
   {
     "id": "s042",
     "name": "野中しんすけ",
-    "image": "images/42.png",
-    "imageWon": "images/42_won.png"
+    "image": "/images/42.png",
+    "imageWon": "/images/42_won.png"
   },
   {
     "id": "s043",
     "name": "しげいくにあき",
-    "image": "images/43.png",
-    "imageWon": "images/43_won.png"
+    "image": "/images/43.png",
+    "imageWon": "/images/43_won.png"
   },
   {
     "id": "s044",
     "name": "まきの俊一",
-    "image": "images/44.png",
-    "imageWon": "images/44_won.png"
+    "image": "/images/44.png",
+    "imageWon": "/images/44_won.png"
   },
   {
     "id": "s045",
     "name": "和田ともひさ",
-    "image": "images/45.png",
-    "imageWon": "images/45_won.png"
+    "image": "/images/45.png",
+    "imageWon": "/images/45_won.png"
   },
   {
     "id": "s046",
     "name": "あだちゆうじ",
-    "image": "images/46.png",
-    "imageWon": "images/46_won.png"
+    "image": "/images/46.png",
+    "imageWon": "/images/46_won.png"
   },
   {
     "id": "s047",
     "name": "あんどう裕",
-    "image": "images/47.png",
-    "imageWon": "images/47_won.png"
+    "image": "/images/47.png",
+    "imageWon": "/images/47_won.png"
   },
   {
     "id": "s048",
     "name": "岩本まな",
-    "image": "images/48.png",
-    "imageWon": "images/48_won.png"
+    "image": "/images/48.png",
+    "imageWon": "/images/48_won.png"
   },
   {
     "id": "s049",
     "name": "松田学",
-    "image": "images/49.png",
-    "imageWon": "images/49_won.png"
+    "image": "/images/49.png",
+    "imageWon": "/images/49_won.png"
   },
   {
     "id": "s050",
     "name": "山中泉",
-    "image": "images/50.png",
-    "imageWon": "images/50_won.png"
+    "image": "/images/50.png",
+    "imageWon": "/images/50_won.png"
   },
   {
     "id": "s051",
     "name": "寺西かずひろ",
-    "image": "images/51.png",
-    "imageWon": "images/51_won.png"
+    "image": "/images/51.png",
+    "imageWon": "/images/51_won.png"
   },
   {
     "id": "s052",
     "name": "川裕一郎",
-    "image": "images/52.png",
-    "imageWon": "images/52_won.png"
+    "image": "/images/52.png",
+    "imageWon": "/images/52_won.png"
   },
   {
     "id": "s053",
     "name": "重松たかみ",
-    "image": "images/53.png",
-    "imageWon": "images/53_won.png"
+    "image": "/images/53.png",
+    "imageWon": "/images/53_won.png"
   },
   {
     "id": "s054",
     "name": "後藤翔太",
-    "image": "images/54.png",
-    "imageWon": "images/54_won.png"
+    "image": "/images/54.png",
+    "imageWon": "/images/54_won.png"
   },
   {
     "id": "s055",
     "name": "梅村みずほ",
-    "image": "images/55.png",
-    "imageWon": "images/55_won.png"
+    "image": "/images/55.png",
+    "imageWon": "/images/55_won.png"
   },
   {
     "id": "kamiya",
     "name": "神谷 宗幣",
-    "image": "images/kamiya.png",
-    "imageWon": "images/kamiya_won.png"
+    "image": "/images/kamiya.png",
+    "imageWon": "/images/kamiya_won.png"
   }
 ]
