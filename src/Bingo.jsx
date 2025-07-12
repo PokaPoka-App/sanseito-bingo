@@ -22,14 +22,14 @@ const positions = [
   useEffect(() => {
     const fetchData = async () => {
       const savedCard = localStorage.getItem('bingoCard');
-      const resWinners = await fetch('src/winners.json');
+      const resWinners = await fetch('/sanseito-bingo/winners.json');
       const winnersData = await resWinners.json();
       setWinners(winnersData);
 
       if (savedCard) {
         setCard(JSON.parse(savedCard));
       } else {
-        const resCandidates = await fetch('src/candidates_with_names.json');
+        const resCandidates = await fetch('/sanseito-bingo/candidates_with_names.json');
         const candidates = await resCandidates.json();
         const kamiya = candidates.find(c => c.id === 'kamiya');
         const others = candidates.filter(c => c.id !== 'kamiya');
@@ -75,11 +75,11 @@ const positions = [
   const text = encodeURIComponent(
     "私の #参政党BINGO 結果はこちら！\nあなたもやってみよう🎯✨\n\n"
   );
-  const url = encodeURIComponent("https://example.com/bingo"); // ←公開URLに変更
+  const url = encodeURIComponent("https://PokaPoka-App.github.io/sanseito-bingo/"); // ←公開URLに変更
   const shareUrl = `https://twitter.com/intent/tweet?text=${text}${url}`;
   window.open(shareUrl, '_blank');
 };
-
+console.log(import.meta.env.BASE_URL)
   return (
     <div className="bingo-wrapper">
       <div className="bingo-bg" id="bingo-card">
@@ -93,9 +93,15 @@ const positions = [
 }}
           >
             <div className="slot-image-wrapper">
-              <img src={item.image} alt={item.name} className="slot-image" />
+              <img
+  src={`${import.meta.env.BASE_URL}${item.image.replace(/^\//, '')}`}
+  alt={item.name}
+  className="slot-image"
+/>
+
               {winners.includes(item.id) && (
-                <img src="/images/ribbon.png" alt="ribbon" className="ribbon-overlay" />
+                <img src={`${import.meta.env.BASE_URL}images/ribbon.png`} alt="ribbon" className="ribbon-overlay" />
+
               )}
             </div>
            

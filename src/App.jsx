@@ -5,7 +5,7 @@ import Bingo from "./Bingo";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/sanseito-bingo">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/bingo" element={<Bingo />} />
